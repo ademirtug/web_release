@@ -58125,7 +58125,7 @@ g=A.kN(m,m,B.aG,m,m,!0,m,A.cm(A.a([h,A.cm(m,A.l4(m,m,m,m,m,m,m,m,m,m,m,40,m,m,m,
 h=n.c
 h.toString
 r=t.eE
-h=A.fs(B.c6,A.fs(B.df,A.lP(A.a([k,A.a3G(B.hG,A.a([new A.cA(new A.aZ(20,0,30,50),new A.xE(j,i,m),m),A.lP(A.a([new A.cA(new A.aZ(20,0,50,0),g,m),new A.yM(new A.cA(new A.aZ(20,0,0,20),A.VL("Your personalized language learning app that makes mastering English vocabulary smart and engaging..",A.aU(h).p3.z),m),m),new A.cA(new A.aZ(20,0,0,25),A.TC(A.a([A.zj("assets/getFromStore.png",m)],r),B.dI,B.fJ),m)],r),B.f0,B.fJ)],r),B.LO)],r),B.aY,B.aE),m,new A.az(0,l,0,1/0),m,m,m,m,m),B.j2,m,m,m,m,m,m)
+h=A.fs(B.c6,A.fs(B.df,A.lP(A.a([k,A.a3G(B.hG,A.a([new A.cA(new A.aZ(20,0,30,50),new A.xE(j,i,m),m),A.lP(A.a([new A.cA(new A.aZ(20,0,50,0),g,m),new A.yM(new A.cA(new A.aZ(20,0,0,20),A.VL("Your personalized language learning app that makes mastering English vocabulary smart and engaging.",A.aU(h).p3.z),m),m),new A.cA(new A.aZ(20,0,0,25),A.TC(A.a([A.zj("assets/getFromStore.png",m)],r),B.dI,B.fJ),m)],r),B.f0,B.fJ)],r),B.LO)],r),B.aY,B.aE),m,new A.az(0,l,0,1/0),m,m,m,m,m),B.j2,m,m,m,m,m,m)
 g=n.c
 g.toString
 i=t.w
@@ -58153,7 +58153,7 @@ j=A.f3(m,A.ch(j,m,i).w.a.b*0.05,m)
 g=n.c
 g.toString
 g=A.aU(g).p3.c
-g=A.xl(new A.cA(new A.aZ(60,0,0,10),A.kN(m,m,B.aG,m,m,!0,m,A.cm(A.a([A.cm(m,g==null?m:g.d3(B.h),"Gamified Learning")],s),m,m),B.a7,m,m,B.a1,B.af),m),m,m)
+g=A.xl(new A.cA(new A.aZ(0,0,0,10),A.kN(m,m,B.aG,m,m,!0,m,A.cm(A.a([A.cm(m,g==null?m:g.d3(B.h),"Gamified Learning")],s),m,m),B.a7,m,m,B.a1,B.af),m),m,m)
 q=n.c
 q.toString
 q=A.aU(q).p3.w
@@ -58161,7 +58161,7 @@ q=A.xl(new A.cA(new A.aZ(20,30,0,10),A.kN(m,m,B.aG,m,m,!0,m,A.cm(A.a([A.cm(m,q==
 p=n.c
 p.toString
 p=A.aU(p).p3.w
-j=A.fs(B.c6,A.fs(B.df,A.lP(A.a([j,g,q,A.xl(new A.cA(new A.aZ(20,0,0,10),A.kN(m,m,B.aG,m,m,!0,m,A.cm(A.a([A.cm(m,p==null?m:p.d3(B.h),"Earn achievements and track your progress, stay motivated!\n")],s),m,m),B.a7,m,m,B.a1,B.af),m),m,m),new A.cA(new A.aZ(20,0,0,0),A.zj("assets/ss2.png",360),m),A.f3(m,50,m)],r),B.aY,B.aE),m,new A.az(0,l,0,1/0),m,m,m,m,m),B.d6,m,m,m,m,m,m)
+j=A.fs(B.c6,A.fs(B.df,A.lP(A.a([j,g,q,A.xl(new A.cA(new A.aZ(20,0,0,10),A.kN(m,m,B.aG,m,m,!0,m,A.cm(A.a([A.cm(m,p==null?m:p.d3(B.h),"Earn achievements and track your progress!\n")],s),m,m),B.a7,m,m,B.a1,B.af),m),m,m),new A.cA(new A.aZ(20,0,0,0),A.zj("assets/ss2.png",360),m),A.f3(m,50,m)],r),B.aY,B.aE),m,new A.az(0,l,0,1/0),m,m,m,m,m),B.d6,m,m,m,m,m,m)
 g=n.c
 g.toString
 i=A.f3(m,A.ch(g,m,i).w.a.b*0.05,m)
