@@ -58988,7 +58988,7 @@ $S:13}
 A.a_9.prototype={
 $0(){var s=0,r=A.Q(t.H),q
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:q=A.fg("support@pakku.app",0,null)
+while(true)switch(s){case 0:q=A.fg("mailto:support@pakku.app",0,null)
 s=4
 return A.T(A.K3(q),$async$$0)
 case 4:s=b?2:3
