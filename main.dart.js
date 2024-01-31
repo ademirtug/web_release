@@ -37640,7 +37640,7 @@ o=A.cb(i,o==null?i:o.co(B.h),"\u2022 Repeat what you have learnt.\n")
 k=j.c
 k.toString
 k=A.aA(k).p3.w
-r=A.eN(B.bC,A.eN(B.cc,A.jp(A.a([r,A.a0A(B.hS,A.a([new A.cl(new A.aM(20,0,20,0),q,i),new A.cl(new A.aM(20,30,0,10),A.k4(i,i,B.aB,i,i,!0,i,A.cb(A.a([p,o,A.cb(i,k==null?i:k.co(B.h),"\u2022 Proven scientific techniques to make you remember.\n")],m),i,i),B.a4,i,i,B.a_,B.aa),i)],l),B.hT),A.e6(i,50,i)],l),B.aN,B.ao,B.ax),i,new A.aJ(0,h,0,1/0),i,i,i,i,i),B.c6,i,i,i,i,i,i)
+r=A.eN(B.bC,A.eN(B.cc,A.jp(A.a([r,A.a0A(B.hS,A.a([new A.cl(new A.aM(20,0,20,0),q,i),new A.cl(new A.aM(20,30,0,10),A.k4(i,i,B.aB,i,i,!0,i,A.cb(A.a([p,o,A.cb(i,k==null?i:k.co(B.h),"\u2022 Proven scientific methods to make you remember.\n")],m),i,i),B.a4,i,i,B.a_,B.aa),i)],l),B.hT),A.e6(i,50,i)],l),B.aN,B.ao,B.ax),i,new A.aJ(0,h,0,1/0),i,i,i,i,i),B.c6,i,i,i,i,i,i)
 q=j.c
 q.toString
 s=A.e6(i,A.c0(q,i,s).w.a.b*0.05,i)
